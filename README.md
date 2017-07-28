@@ -8,7 +8,8 @@
 
 3. 代码语法高亮拓展：
 
-    [【osoc_prettify.js】](https://github.com/osoc/osoc_prettify.js/raw/master/osoc_prettify.js)；
+    [【osoc_prettify.js】；](https://github.com/osoc/osoc_prettify.js/raw/master/osoc_prettify.js)
 
-    [【osoc_prettify.css】](https://github.com/osoc/osoc_prettify.js/raw/master/osoc_prettify.css)；
+    [【osoc_prettify.css】；](https://github.com/osoc/osoc_prettify.js/raw/master/osoc_prettify.css)
 
+4. 
