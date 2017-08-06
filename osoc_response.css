@@ -1,305 +1,405 @@
 /********************************************************************************************
  *
- * osoc_response.css v0.9.2 | MIT License | github.com/osoc/osoc_response.css
+ * osoc_response.css v0.9.3 | MIT License | github.com/osoc/osoc_response.css
  * 
 ********************************************************************************************/
-@media screen and (min-width:1.001em) and (max-width:5.400em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:1.001em) and (max-width:2.868em) and (min-aspect-ratio:12/9){
     html{
-        font-size:4%;
+        font-size:2.579%;
     }
 }
-@media screen and (min-width:5.401em) and (max-width:10.240em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:2.869em) and (max-width:4.919em) and (min-aspect-ratio:12/9){
     html{
-        font-size:10%;
+        font-size:5.192%;
     }
 }
-@media screen and (min-width:10.241em) and (max-width:15.564em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:4.920em) and (max-width:7.174em) and (min-aspect-ratio:12/9){
     html{
-        font-size:17%;
+        font-size:8.062%;
     }
 }
-@media screen and (min-width:15.565em) and (max-width:21.420em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:7.175em) and (max-width:9.652em) and (min-aspect-ratio:12/9){
     html{
-        font-size:24%;
+        font-size:11.218%;
     }
 }
-@media screen and (min-width:21.421em) and (max-width:27.860em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:9.653em) and (max-width:12.377em) and (min-aspect-ratio:12/9){
     html{
-        font-size:32%;
+        font-size:14.686%;
     }
 }
-@media screen and (min-width:27.861em) and (max-width:34.944em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:12.378em) and (max-width:15.370em) and (min-aspect-ratio:12/9){
     html{
-        font-size:41%;
+        font-size:18.498%;
     }
 }
-@media screen and (min-width:34.945em) and (max-width:42.736em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:15.371em) and (max-width:18.661em) and (min-aspect-ratio:12/9){
     html{
-        font-size:51%;
+        font-size:22.688%;
     }
 }
-@media screen and (min-width:42.737em) and (max-width:51.308em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:18.662em) and (max-width:22.278em) and (min-aspect-ratio:12/9){
     html{
-        font-size:62%;
+        font-size:27.293%;
     }
 }
-@media screen and (min-width:51.309em) and (max-width:60.736em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:22.279em) and (max-width:26.252em) and (min-aspect-ratio:12/9){
     html{
-        font-size:74%;
+        font-size:32.354%;
     }
 }
-@media screen and (min-width:60.737em) and (max-width:71.108em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:26.253em) and (max-width:30.621em) and (min-aspect-ratio:12/9){
     html{
-        font-size:87%;
+        font-size:37.916%;
     }
 }
-@media screen and (min-width:71.109em) and (max-width:82.520em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:30.622em) and (max-width:35.421em) and (min-aspect-ratio:12/9){
     html{
-        font-size:102%;
+        font-size:44.028%;
     }
 }
-@media screen and (min-width:82.521em) and (max-width:95.072em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:35.422em) and (max-width:40.697em) and (min-aspect-ratio:12/9){
     html{
-        font-size:118%;
+        font-size:50.746%;
     }
 }
-@media screen and (min-width:95.073em) and (max-width:108.880em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:40.698em) and (max-width:46.495em) and (min-aspect-ratio:12/9){
     html{
-        font-size:135%;
+        font-size:58.128%;
     }
 }
-@media screen and (min-width:108.881em) and (max-width:124.068em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:46.496em) and (max-width:52.868em) and (min-aspect-ratio:12/9){
     html{
-        font-size:155%;
+        font-size:66.242%;
     }
 }
-@media screen and (min-width:124.069em) and (max-width:140.776em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:52.869em) and (max-width:59.872em) and (min-aspect-ratio:12/9){
     html{
-        font-size:176%;
+        font-size:75.160%;
     }
 }
-@media screen and (min-width:140.777em) and (max-width:159.152em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:59.873em) and (max-width:67.569em) and (min-aspect-ratio:12/9){
     html{
-        font-size:199%;
+        font-size:84.961%;
     }
 }
-@media screen and (min-width:159.153em) and (max-width:179.368em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:67.570em) and (max-width:76.028em) and (min-aspect-ratio:12/9){
     html{
-        font-size:225%;
+        font-size:95.732%;
     }
 }
-@media screen and (min-width:179.369em) and (max-width:201.604em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:76.029em) and (max-width:85.325em) and (min-aspect-ratio:12/9){
     html{
-        font-size:253%;
+        font-size:107.569%;
     }
 }
-@media screen and (min-width:201.605em) and (max-width:226.064em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:85.326em) and (max-width:95.543em) and (min-aspect-ratio:12/9){
     html{
-        font-size:285%;
+        font-size:120.579%;
     }
 }
-@media screen and (min-width:226.065em) and (max-width:252.972em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:95.544em) and (max-width:106.773em) and (min-aspect-ratio:12/9){
     html{
-        font-size:319%;
+        font-size:134.878%;
     }
 }
-@media screen and (min-width:252.973em) and (max-width:282.572em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:106.774em) and (max-width:119.115em) and (min-aspect-ratio:12/9){
     html{
-        font-size:357%;
+        font-size:150.592%;
     }
 }
-@media screen and (min-width:282.573em) and (max-width:315.132em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:119.116em) and (max-width:132.679em) and (min-aspect-ratio:12/9){
     html{
-        font-size:398%;
+        font-size:167.863%;
     }
 }
-@media screen and (min-width:315.133em) and (max-width:350.948em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:132.680em) and (max-width:147.584em) and (min-aspect-ratio:12/9){
     html{
-        font-size:444%;
+        font-size:186.842%;
     }
 }
-@media screen and (min-width:350.949em) and (max-width:390.344em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:147.585em) and (max-width:163.966em) and (min-aspect-ratio:12/9){
     html{
-        font-size:494%;
+        font-size:207.700%;
     }
 }
-@media screen and (min-width:390.345em) and (max-width:433.680em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:163.967em) and (max-width:181.970em) and (min-aspect-ratio:12/9){
     html{
-        font-size:549%;
+        font-size:230.624%;
     }
 }
-@media screen and (min-width:433.681em) and (max-width:481.352em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:181.971em) and (max-width:201.756em) and (min-aspect-ratio:12/9){
     html{
-        font-size:610%;
+        font-size:255.818%;
     }
 }
-@media screen and (min-width:481.353em) and (max-width:533.788em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:201.757em) and (max-width:223.500em) and (min-aspect-ratio:12/9){
     html{
-        font-size:676%;
+        font-size:283.504%;
     }
 }
-@media screen and (min-width:533.789em) and (max-width:591.468em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:223.501em) and (max-width:247.398em) and (min-aspect-ratio:12/9){
     html{
-        font-size:750%;
+        font-size:313.932%;
     }
 }
-@media screen and (min-width:591.469em) and (max-width:654.920em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:247.399em) and (max-width:273.663em) and (min-aspect-ratio:12/9){
     html{
-        font-size:830%;
+        font-size:347.374%;
     }
 }
-@media screen and (min-width:654.921em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:273.664em) and (max-width:302.527em) and (min-aspect-ratio:12/9){
     html{
-        font-size:919%;
+        font-size:384.127%;
     }
 }
-@media screen and (min-width:1.001em) and (max-width:3.200em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:302.528em) and (max-width:334.249em) and (min-aspect-ratio:12/9){
     html{
-        font-size:9%;
+        font-size:424.518%;
     }
 }
-@media screen and (min-width:3.201em) and (max-width:5.620em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:334.250em) and (max-width:369.112em) and (min-aspect-ratio:12/9){
     html{
-        font-size:20%;
+        font-size:468.908%;
     }
 }
-@media screen and (min-width:5.621em) and (max-width:8.282em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:369.113em) and (max-width:407.426em) and (min-aspect-ratio:12/9){
     html{
-        font-size:32%;
+        font-size:517.692%;
     }
 }
-@media screen and (min-width:8.283em) and (max-width:11.210em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:407.427em) and (max-width:449.533em) and (min-aspect-ratio:12/9){
     html{
-        font-size:45%;
+        font-size:571.306%;
     }
 }
-@media screen and (min-width:11.211em) and (max-width:14.430em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:449.534em) and (max-width:495.808em) and (min-aspect-ratio:12/9){
     html{
-        font-size:60%;
+        font-size:630.228%;
     }
 }
-@media screen and (min-width:14.431em) and (max-width:17.972em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:495.809em) and (max-width:546.665em) and (min-aspect-ratio:12/9){
     html{
-        font-size:76%;
+        font-size:694.982%;
     }
 }
-@media screen and (min-width:17.973em) and (max-width:21.868em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:546.666em) and (max-width:602.557em) and (min-aspect-ratio:12/9){
     html{
-        font-size:93%;
+        font-size:766.148%;
     }
 }
-@media screen and (min-width:21.869em) and (max-width:26.154em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:602.558em) and (max-width:663.983em) and (min-aspect-ratio:12/9){
     html{
-        font-size:112%;
+        font-size:844.360%;
     }
 }
-@media screen and (min-width:26.155em) and (max-width:30.868em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:663.984em) and (max-width:731.490em) and (min-aspect-ratio:12/9){
     html{
-        font-size:134%;
+        font-size:930.316%;
     }
 }
-@media screen and (min-width:30.869em) and (max-width:36.054em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:731.491em) and (min-aspect-ratio:12/9){
     html{
-        font-size:157%;
+        font-size:1024.781%;
     }
 }
-@media screen and (min-width:36.055em) and (max-width:41.760em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:1.001em) and (max-width:2.868em) and (max-aspect-ratio:9/12){
     html{
-        font-size:183%;
+        font-size:9.103%;
     }
 }
-@media screen and (min-width:41.761em) and (max-width:48.036em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:2.869em) and (max-width:4.919em) and (max-aspect-ratio:9/12){
     html{
-        font-size:211%;
+        font-size:18.324%;
     }
 }
-@media screen and (min-width:48.037em) and (max-width:54.940em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:4.920em) and (max-width:7.174em) and (max-aspect-ratio:9/12){
     html{
-        font-size:242%;
+        font-size:28.456%;
     }
 }
-@media screen and (min-width:54.941em) and (max-width:62.534em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:7.175em) and (max-width:9.652em) and (max-aspect-ratio:9/12){
     html{
-        font-size:276%;
+        font-size:39.592%;
     }
 }
-@media screen and (min-width:62.535em) and (max-width:70.888em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:9.653em) and (max-width:12.377em) and (max-aspect-ratio:9/12){
     html{
-        font-size:313%;
+        font-size:51.835%;
     }
 }
-@media screen and (min-width:70.889em) and (max-width:80.076em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:12.378em) and (max-width:15.370em) and (max-aspect-ratio:9/12){
     html{
-        font-size:355%;
+        font-size:65.289%;
     }
 }
-@media screen and (min-width:80.077em) and (max-width:90.184em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:15.371em) and (max-width:18.661em) and (max-aspect-ratio:9/12){
     html{
-        font-size:400%;
+        font-size:80.075%;
     }
 }
-@media screen and (min-width:90.185em) and (max-width:101.302em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:18.662em) and (max-width:22.278em) and (max-aspect-ratio:9/12){
     html{
-        font-size:450%;
+        font-size:96.329%;
     }
 }
-@media screen and (min-width:101.303em) and (max-width:113.532em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:22.279em) and (max-width:26.252em) and (max-aspect-ratio:9/12){
     html{
-        font-size:505%;
+        font-size:114.190%;
     }
 }
-@media screen and (min-width:113.533em) and (max-width:126.986em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:26.253em) and (max-width:30.621em) and (max-aspect-ratio:9/12){
     html{
-        font-size:565%;
+        font-size:133.821%;
     }
 }
-@media screen and (min-width:126.987em) and (max-width:141.786em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:30.622em) and (max-width:35.421em) and (max-aspect-ratio:9/12){
     html{
-        font-size:632%;
+        font-size:155.395%;
     }
 }
-@media screen and (min-width:141.787em) and (max-width:158.066em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:35.422em) and (max-width:40.697em) and (max-aspect-ratio:9/12){
     html{
-        font-size:705%;
+        font-size:179.103%;
     }
 }
-@media screen and (min-width:158.067em) and (max-width:175.974em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:40.698em) and (max-width:46.495em) and (max-aspect-ratio:9/12){
     html{
-        font-size:785%;
+        font-size:205.160%;
     }
 }
-@media screen and (min-width:175.975em) and (max-width:195.672em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:46.496em) and (max-width:52.868em) and (max-aspect-ratio:9/12){
     html{
-        font-size:874%;
+        font-size:233.797%;
     }
 }
-@media screen and (min-width:195.673em) and (max-width:217.340em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:52.869em) and (max-width:59.872em) and (max-aspect-ratio:9/12){
     html{
-        font-size:971%;
+        font-size:265.272%;
     }
 }
-@media screen and (min-width:217.341em) and (max-width:241.176em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:59.873em) and (max-width:67.569em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1078%;
+        font-size:299.863%;
     }
 }
-@media screen and (min-width:241.177em) and (max-width:267.394em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:67.570em) and (max-width:76.028em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1196%;
+        font-size:337.877%;
     }
 }
-@media screen and (min-width:267.395em) and (max-width:296.234em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:76.029em) and (max-width:85.325em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1326%;
+        font-size:379.656%;
     }
 }
-@media screen and (min-width:296.235em) and (max-width:327.960em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:85.326em) and (max-width:95.543em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1468%;
+        font-size:425.574%;
     }
 }
-@media screen and (min-width:327.961em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:95.544em) and (max-width:106.773em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1625%;
+        font-size:476.040%;
+    }
+}
+@media screen and (min-width:106.774em) and (max-width:119.115em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:531.503%;
+    }
+}
+@media screen and (min-width:119.116em) and (max-width:132.679em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:592.458%;
+    }
+}
+@media screen and (min-width:132.680em) and (max-width:147.584em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:659.444%;
+    }
+}
+@media screen and (min-width:147.585em) and (max-width:163.966em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:733.061%;
+    }
+}
+@media screen and (min-width:163.967em) and (max-width:181.970em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:813.969%;
+    }
+}
+@media screen and (min-width:181.971em) and (max-width:201.756em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:902.887%;
+    }
+}
+@media screen and (min-width:201.757em) and (max-width:223.500em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1000.604%;
+    }
+}
+@media screen and (min-width:223.501em) and (max-width:247.398em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1107.997%;
+    }
+}
+@media screen and (min-width:247.399em) and (max-width:273.663em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1226.028%;
+    }
+}
+@media screen and (min-width:273.664em) and (max-width:302.527em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1355.743%;
+    }
+}
+@media screen and (min-width:302.528em) and (max-width:334.249em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1498.298%;
+    }
+}
+@media screen and (min-width:334.250em) and (max-width:369.112em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1654.969%;
+    }
+}
+@media screen and (min-width:369.113em) and (max-width:407.426em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1827.150%;
+    }
+}
+@media screen and (min-width:407.427em) and (max-width:449.533em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2016.376%;
+    }
+}
+@media screen and (min-width:449.534em) and (max-width:495.808em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2224.334%;
+    }
+}
+@media screen and (min-width:495.809em) and (max-width:546.665em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2452.880%;
+    }
+}
+@media screen and (min-width:546.666em) and (max-width:602.557em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2704.054%;
+    }
+}
+@media screen and (min-width:602.558em) and (max-width:663.983em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2980.096%;
+    }
+}
+@media screen and (min-width:663.984em) and (max-width:731.490em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:3283.468%;
+    }
+}
+@media screen and (min-width:731.491em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:3616.875%;
     }
 }
