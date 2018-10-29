@@ -1,425 +1,565 @@
 /********************************************************************************************
  *
- * osoc_response.css v0.9.4 | MIT License | github.com/osoc/osoc_response.css
+ * osoc_response.css v0.9.5 | MIT License | github.com/osoc/osoc_response.css
  * 
 ********************************************************************************************/
-@media screen and (min-width:1.001em) and (max-width:5.396em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:1.001em) and (max-width:2.868em) and (min-aspect-ratio:12/9){
     html{
-        font-size:4%;
-        -webkit-text-size-adjust:4%;
-        -ms-text-size-adjust:4%;
+        font-size:2.579%;
+        -webkit-text-size-adjust:2.579%;
+        -ms-text-size-adjust:2.579%;
     }
 }
-@media screen and (min-width:5.397em) and (max-width:10.224em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:2.869em) and (max-width:4.919em) and (min-aspect-ratio:12/9){
     html{
-        font-size:10%;
-        -webkit-text-size-adjust:10%;
-        -ms-text-size-adjust:10%;
+        font-size:5.192%;
+        -webkit-text-size-adjust:5.192%;
+        -ms-text-size-adjust:5.192%;
     }
 }
-@media screen and (min-width:10.225em) and (max-width:15.532em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:4.920em) and (max-width:7.174em) and (min-aspect-ratio:12/9){
     html{
-        font-size:17%;
-        -webkit-text-size-adjust:17%;
-        -ms-text-size-adjust:17%;
+        font-size:8.062%;
+        -webkit-text-size-adjust:8.062%;
+        -ms-text-size-adjust:8.062%;
     }
 }
-@media screen and (min-width:15.533em) and (max-width:21.364em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:7.175em) and (max-width:9.652em) and (min-aspect-ratio:12/9){
     html{
-        font-size:24%;
-        -webkit-text-size-adjust:24%;
-        -ms-text-size-adjust:24%;
+        font-size:11.218%;
+        -webkit-text-size-adjust:11.218%;
+        -ms-text-size-adjust:11.218%;
     }
 }
-@media screen and (min-width:21.365em) and (max-width:27.776em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:9.653em) and (max-width:12.377em) and (min-aspect-ratio:12/9){
     html{
-        font-size:32%;
-        -webkit-text-size-adjust:32%;
-        -ms-text-size-adjust:32%;
+        font-size:14.686%;
+        -webkit-text-size-adjust:14.686%;
+        -ms-text-size-adjust:14.686%;
     }
 }
-@media screen and (min-width:27.777em) and (max-width:34.820em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:12.378em) and (max-width:15.370em) and (min-aspect-ratio:12/9){
     html{
-        font-size:41%;
-        -webkit-text-size-adjust:41%;
-        -ms-text-size-adjust:41%;
+        font-size:18.498%;
+        -webkit-text-size-adjust:18.498%;
+        -ms-text-size-adjust:18.498%;
     }
 }
-@media screen and (min-width:34.821em) and (max-width:42.564em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:15.371em) and (max-width:18.661em) and (min-aspect-ratio:12/9){
     html{
-        font-size:51%;
-        -webkit-text-size-adjust:51%;
-        -ms-text-size-adjust:51%;
+        font-size:22.688%;
+        -webkit-text-size-adjust:22.688%;
+        -ms-text-size-adjust:22.688%;
     }
 }
-@media screen and (min-width:42.565em) and (max-width:51.076em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:18.662em) and (max-width:22.278em) and (min-aspect-ratio:12/9){
     html{
-        font-size:62%;
-        -webkit-text-size-adjust:62%;
-        -ms-text-size-adjust:62%;
+        font-size:27.293%;
+        -webkit-text-size-adjust:27.293%;
+        -ms-text-size-adjust:27.293%;
     }
 }
-@media screen and (min-width:51.077em) and (max-width:60.428em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:22.279em) and (max-width:26.252em) and (min-aspect-ratio:12/9){
     html{
-        font-size:74%;
-        -webkit-text-size-adjust:74%;
-        -ms-text-size-adjust:74%;
+        font-size:32.354%;
+        -webkit-text-size-adjust:32.354%;
+        -ms-text-size-adjust:32.354%;
     }
 }
-@media screen and (min-width:60.429em) and (max-width:70.708em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:26.253em) and (max-width:30.621em) and (min-aspect-ratio:12/9){
     html{
-        font-size:87%;
-        -webkit-text-size-adjust:87%;
-        -ms-text-size-adjust:87%;
+        font-size:37.916%;
+        -webkit-text-size-adjust:37.916%;
+        -ms-text-size-adjust:37.916%;
     }
 }
-@media screen and (min-width:70.709em) and (max-width:82.004em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:30.622em) and (max-width:35.421em) and (min-aspect-ratio:12/9){
     html{
-        font-size:101%;
-        -webkit-text-size-adjust:101%;
-        -ms-text-size-adjust:101%;
+        font-size:44.028%;
+        -webkit-text-size-adjust:44.028%;
+        -ms-text-size-adjust:44.028%;
     }
 }
-@media screen and (min-width:82.005em) and (max-width:94.420em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:35.422em) and (max-width:40.697em) and (min-aspect-ratio:12/9){
     html{
-        font-size:117%;
-        -webkit-text-size-adjust:117%;
-        -ms-text-size-adjust:117%;
+        font-size:50.746%;
+        -webkit-text-size-adjust:50.746%;
+        -ms-text-size-adjust:50.746%;
     }
 }
-@media screen and (min-width:94.421em) and (max-width:108.064em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:40.698em) and (max-width:46.495em) and (min-aspect-ratio:12/9){
     html{
-        font-size:134%;
-        -webkit-text-size-adjust:134%;
-        -ms-text-size-adjust:134%;
+        font-size:58.128%;
+        -webkit-text-size-adjust:58.128%;
+        -ms-text-size-adjust:58.128%;
     }
 }
-@media screen and (min-width:108.065em) and (max-width:123.060em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:46.496em) and (max-width:52.868em) and (min-aspect-ratio:12/9){
     html{
-        font-size:154%;
-        -webkit-text-size-adjust:154%;
-        -ms-text-size-adjust:154%;
+        font-size:66.242%;
+        -webkit-text-size-adjust:66.242%;
+        -ms-text-size-adjust:66.242%;
     }
 }
-@media screen and (min-width:123.061em) and (max-width:139.540em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:52.869em) and (max-width:59.872em) and (min-aspect-ratio:12/9){
     html{
-        font-size:175%;
-        -webkit-text-size-adjust:175%;
-        -ms-text-size-adjust:175%;
+        font-size:75.160%;
+        -webkit-text-size-adjust:75.160%;
+        -ms-text-size-adjust:75.160%;
     }
 }
-@media screen and (min-width:139.541em) and (max-width:157.652em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:59.873em) and (max-width:67.569em) and (min-aspect-ratio:12/9){
     html{
-        font-size:198%;
-        -webkit-text-size-adjust:198%;
-        -ms-text-size-adjust:198%;
+        font-size:84.961%;
+        -webkit-text-size-adjust:84.961%;
+        -ms-text-size-adjust:84.961%;
     }
 }
-@media screen and (min-width:157.653em) and (max-width:177.556em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:67.570em) and (max-width:76.028em) and (min-aspect-ratio:12/9){
     html{
-        font-size:223%;
-        -webkit-text-size-adjust:223%;
-        -ms-text-size-adjust:223%;
+        font-size:95.732%;
+        -webkit-text-size-adjust:95.732%;
+        -ms-text-size-adjust:95.732%;
     }
 }
-@media screen and (min-width:177.557em) and (max-width:199.432em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:76.029em) and (max-width:85.325em) and (min-aspect-ratio:12/9){
     html{
-        font-size:251%;
-        -webkit-text-size-adjust:251%;
-        -ms-text-size-adjust:251%;
+        font-size:107.569%;
+        -webkit-text-size-adjust:107.569%;
+        -ms-text-size-adjust:107.569%;
     }
 }
-@media screen and (min-width:199.433em) and (max-width:223.476em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:85.326em) and (max-width:95.543em) and (min-aspect-ratio:12/9){
     html{
-        font-size:281%;
-        -webkit-text-size-adjust:281%;
-        -ms-text-size-adjust:281%;
+        font-size:120.579%;
+        -webkit-text-size-adjust:120.579%;
+        -ms-text-size-adjust:120.579%;
     }
 }
-@media screen and (min-width:223.477em) and (max-width:249.900em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:95.544em) and (max-width:106.773em) and (min-aspect-ratio:12/9){
     html{
-        font-size:315%;
-        -webkit-text-size-adjust:315%;
-        -ms-text-size-adjust:315%;
+        font-size:134.878%;
+        -webkit-text-size-adjust:134.878%;
+        -ms-text-size-adjust:134.878%;
     }
 }
-@media screen and (min-width:249.901em) and (max-width:278.940em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:106.774em) and (max-width:119.115em) and (min-aspect-ratio:12/9){
     html{
-        font-size:352%;
-        -webkit-text-size-adjust:352%;
-        -ms-text-size-adjust:352%;
+        font-size:150.592%;
+        -webkit-text-size-adjust:150.592%;
+        -ms-text-size-adjust:150.592%;
     }
 }
-@media screen and (min-width:278.941em) and (max-width:310.856em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:119.116em) and (max-width:132.679em) and (min-aspect-ratio:12/9){
     html{
-        font-size:393%;
-        -webkit-text-size-adjust:393%;
-        -ms-text-size-adjust:393%;
+        font-size:167.863%;
+        -webkit-text-size-adjust:167.863%;
+        -ms-text-size-adjust:167.863%;
     }
 }
-@media screen and (min-width:310.857em) and (max-width:345.928em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:132.680em) and (max-width:147.584em) and (min-aspect-ratio:12/9){
     html{
-        font-size:437%;
-        -webkit-text-size-adjust:437%;
-        -ms-text-size-adjust:437%;
+        font-size:186.842%;
+        -webkit-text-size-adjust:186.842%;
+        -ms-text-size-adjust:186.842%;
     }
 }
-@media screen and (min-width:345.929em) and (max-width:384.476em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:147.585em) and (max-width:163.966em) and (min-aspect-ratio:12/9){
     html{
-        font-size:486%;
-        -webkit-text-size-adjust:486%;
-        -ms-text-size-adjust:486%;
+        font-size:207.700%;
+        -webkit-text-size-adjust:207.700%;
+        -ms-text-size-adjust:207.700%;
     }
 }
-@media screen and (min-width:384.477em) and (max-width:426.840em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:163.967em) and (max-width:181.970em) and (min-aspect-ratio:12/9){
     html{
-        font-size:540%;
-        -webkit-text-size-adjust:540%;
-        -ms-text-size-adjust:540%;
+        font-size:230.624%;
+        -webkit-text-size-adjust:230.624%;
+        -ms-text-size-adjust:230.624%;
     }
 }
-@media screen and (min-width:426.841em) and (max-width:473.396em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:181.971em) and (max-width:201.756em) and (min-aspect-ratio:12/9){
     html{
-        font-size:600%;
-        -webkit-text-size-adjust:600%;
-        -ms-text-size-adjust:600%;
+        font-size:255.818%;
+        -webkit-text-size-adjust:255.818%;
+        -ms-text-size-adjust:255.818%;
     }
 }
-@media screen and (min-width:473.397em) and (max-width:524.560em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:201.757em) and (max-width:223.500em) and (min-aspect-ratio:12/9){
     html{
-        font-size:665%;
-        -webkit-text-size-adjust:665%;
-        -ms-text-size-adjust:665%;
+        font-size:283.504%;
+        -webkit-text-size-adjust:283.504%;
+        -ms-text-size-adjust:283.504%;
     }
 }
-@media screen and (min-width:524.561em) and (max-width:580.792em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:223.501em) and (max-width:247.398em) and (min-aspect-ratio:12/9){
     html{
-        font-size:736%;
-        -webkit-text-size-adjust:736%;
-        -ms-text-size-adjust:736%;
+        font-size:313.932%;
+        -webkit-text-size-adjust:313.932%;
+        -ms-text-size-adjust:313.932%;
     }
 }
-@media screen and (min-width:580.793em) and (max-width:642.592em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:247.399em) and (max-width:273.663em) and (min-aspect-ratio:12/9){
     html{
-        font-size:815%;
-        -webkit-text-size-adjust:815%;
-        -ms-text-size-adjust:815%;
+        font-size:347.374%;
+        -webkit-text-size-adjust:347.374%;
+        -ms-text-size-adjust:347.374%;
     }
 }
-@media screen and (min-width:642.593em) and (min-aspect-ratio:12/9){
+@media screen and (min-width:273.664em) and (max-width:302.527em) and (min-aspect-ratio:12/9){
     html{
-        font-size:902%;
-        -webkit-text-size-adjust:902%;
-        -ms-text-size-adjust:902%;
+        font-size:384.127%;
+        -webkit-text-size-adjust:384.127%;
+        -ms-text-size-adjust:384.127%;
     }
 }
-@media screen and (min-width:1.001em) and (max-width:3.198em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:302.528em) and (max-width:334.249em) and (min-aspect-ratio:12/9){
     html{
-        font-size:10%;
-        -webkit-text-size-adjust:10%;
-        -ms-text-size-adjust:10%;
+        font-size:424.518%;
+        -webkit-text-size-adjust:424.518%;
+        -ms-text-size-adjust:424.518%;
     }
 }
-@media screen and (min-width:3.199em) and (max-width:5.612em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:334.250em) and (max-width:369.112em) and (min-aspect-ratio:12/9){
     html{
-        font-size:22%;
-        -webkit-text-size-adjust:22%;
-        -ms-text-size-adjust:22%;
+        font-size:468.908%;
+        -webkit-text-size-adjust:468.908%;
+        -ms-text-size-adjust:468.908%;
     }
 }
-@media screen and (min-width:5.613em) and (max-width:8.266em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:369.113em) and (max-width:407.426em) and (min-aspect-ratio:12/9){
     html{
-        font-size:34%;
-        -webkit-text-size-adjust:34%;
-        -ms-text-size-adjust:34%;
+        font-size:517.692%;
+        -webkit-text-size-adjust:517.692%;
+        -ms-text-size-adjust:517.692%;
     }
 }
-@media screen and (min-width:8.267em) and (max-width:11.182em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:407.427em) and (max-width:449.533em) and (min-aspect-ratio:12/9){
     html{
-        font-size:48%;
-        -webkit-text-size-adjust:48%;
-        -ms-text-size-adjust:48%;
+        font-size:571.306%;
+        -webkit-text-size-adjust:571.306%;
+        -ms-text-size-adjust:571.306%;
     }
 }
-@media screen and (min-width:11.183em) and (max-width:14.388em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:449.534em) and (max-width:495.808em) and (min-aspect-ratio:12/9){
     html{
-        font-size:63%;
-        -webkit-text-size-adjust:63%;
-        -ms-text-size-adjust:63%;
+        font-size:630.228%;
+        -webkit-text-size-adjust:630.228%;
+        -ms-text-size-adjust:630.228%;
     }
 }
-@media screen and (min-width:14.389em) and (max-width:17.910em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:495.809em) and (max-width:546.665em) and (min-aspect-ratio:12/9){
     html{
-        font-size:80%;
-        -webkit-text-size-adjust:80%;
-        -ms-text-size-adjust:80%;
+        font-size:694.982%;
+        -webkit-text-size-adjust:694.982%;
+        -ms-text-size-adjust:694.982%;
     }
 }
-@media screen and (min-width:17.911em) and (max-width:21.782em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:546.666em) and (max-width:602.557em) and (min-aspect-ratio:12/9){
     html{
-        font-size:99%;
-        -webkit-text-size-adjust:99%;
-        -ms-text-size-adjust:99%;
+        font-size:766.148%;
+        -webkit-text-size-adjust:766.148%;
+        -ms-text-size-adjust:766.148%;
     }
 }
-@media screen and (min-width:21.783em) and (max-width:26.038em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:602.558em) and (max-width:663.983em) and (min-aspect-ratio:12/9){
     html{
-        font-size:119%;
-        -webkit-text-size-adjust:119%;
-        -ms-text-size-adjust:119%;
+        font-size:844.360%;
+        -webkit-text-size-adjust:844.360%;
+        -ms-text-size-adjust:844.360%;
     }
 }
-@media screen and (min-width:26.039em) and (max-width:30.714em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:663.984em) and (max-width:731.490em) and (min-aspect-ratio:12/9){
     html{
-        font-size:141%;
-        -webkit-text-size-adjust:141%;
-        -ms-text-size-adjust:141%;
+        font-size:930.316%;
+        -webkit-text-size-adjust:930.316%;
+        -ms-text-size-adjust:930.316%;
     }
 }
-@media screen and (min-width:30.715em) and (max-width:35.854em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:731.491em) and (min-aspect-ratio:12/9){
     html{
-        font-size:166%;
-        -webkit-text-size-adjust:166%;
-        -ms-text-size-adjust:166%;
+        font-size:1024.781%;
+        -webkit-text-size-adjust:1024.781%;
+        -ms-text-size-adjust:1024.781%;
     }
 }
-@media screen and (min-width:35.855em) and (max-width:41.502em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:1.001em) and (max-width:2.868em) and (max-aspect-ratio:9/12){
     html{
-        font-size:193%;
-        -webkit-text-size-adjust:193%;
-        -ms-text-size-adjust:193%;
+        font-size:9.103%;
+        -webkit-text-size-adjust:9.103%;
+        -ms-text-size-adjust:9.103%;
     }
 }
-@media screen and (min-width:41.503em) and (max-width:47.710em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:2.869em) and (max-width:4.919em) and (max-aspect-ratio:9/12){
     html{
-        font-size:223%;
-        -webkit-text-size-adjust:223%;
-        -ms-text-size-adjust:223%;
+        font-size:18.324%;
+        -webkit-text-size-adjust:18.324%;
+        -ms-text-size-adjust:18.324%;
     }
 }
-@media screen and (min-width:47.711em) and (max-width:54.532em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:4.920em) and (max-width:7.174em) and (max-aspect-ratio:9/12){
     html{
-        font-size:255%;
-        -webkit-text-size-adjust:255%;
-        -ms-text-size-adjust:255%;
+        font-size:28.456%;
+        -webkit-text-size-adjust:28.456%;
+        -ms-text-size-adjust:28.456%;
     }
 }
-@media screen and (min-width:54.533em) and (max-width:62.030em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:7.175em) and (max-width:9.652em) and (max-aspect-ratio:9/12){
     html{
-        font-size:291%;
-        -webkit-text-size-adjust:291%;
-        -ms-text-size-adjust:291%;
+        font-size:39.592%;
+        -webkit-text-size-adjust:39.592%;
+        -ms-text-size-adjust:39.592%;
     }
 }
-@media screen and (min-width:62.031em) and (max-width:70.270em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:9.653em) and (max-width:12.377em) and (max-aspect-ratio:9/12){
     html{
-        font-size:330%;
-        -webkit-text-size-adjust:330%;
-        -ms-text-size-adjust:330%;
+        font-size:51.835%;
+        -webkit-text-size-adjust:51.835%;
+        -ms-text-size-adjust:51.835%;
     }
 }
-@media screen and (min-width:70.271em) and (max-width:79.326em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:12.378em) and (max-width:15.370em) and (max-aspect-ratio:9/12){
     html{
-        font-size:373%;
-        -webkit-text-size-adjust:373%;
-        -ms-text-size-adjust:373%;
+        font-size:65.289%;
+        -webkit-text-size-adjust:65.289%;
+        -ms-text-size-adjust:65.289%;
     }
 }
-@media screen and (min-width:79.327em) and (max-width:89.278em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:15.371em) and (max-width:18.661em) and (max-aspect-ratio:9/12){
     html{
-        font-size:421%;
-        -webkit-text-size-adjust:421%;
-        -ms-text-size-adjust:421%;
+        font-size:80.075%;
+        -webkit-text-size-adjust:80.075%;
+        -ms-text-size-adjust:80.075%;
     }
 }
-@media screen and (min-width:89.279em) and (max-width:100.216em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:18.662em) and (max-width:22.278em) and (max-aspect-ratio:9/12){
     html{
-        font-size:473%;
-        -webkit-text-size-adjust:473%;
-        -ms-text-size-adjust:473%;
+        font-size:96.329%;
+        -webkit-text-size-adjust:96.329%;
+        -ms-text-size-adjust:96.329%;
     }
 }
-@media screen and (min-width:100.217em) and (max-width:112.238em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:22.279em) and (max-width:26.252em) and (max-aspect-ratio:9/12){
     html{
-        font-size:531%;
-        -webkit-text-size-adjust:531%;
-        -ms-text-size-adjust:531%;
+        font-size:114.190%;
+        -webkit-text-size-adjust:114.190%;
+        -ms-text-size-adjust:114.190%;
     }
 }
-@media screen and (min-width:112.239em) and (max-width:125.450em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:26.253em) and (max-width:30.621em) and (max-aspect-ratio:9/12){
     html{
-        font-size:594%;
-        -webkit-text-size-adjust:594%;
-        -ms-text-size-adjust:594%;
+        font-size:133.821%;
+        -webkit-text-size-adjust:133.821%;
+        -ms-text-size-adjust:133.821%;
     }
 }
-@media screen and (min-width:125.451em) and (max-width:139.970em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:30.622em) and (max-width:35.421em) and (max-aspect-ratio:9/12){
     html{
-        font-size:663%;
-        -webkit-text-size-adjust:663%;
-        -ms-text-size-adjust:663%;
+        font-size:155.395%;
+        -webkit-text-size-adjust:155.395%;
+        -ms-text-size-adjust:155.395%;
     }
 }
-@media screen and (min-width:139.971em) and (max-width:155.928em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:35.422em) and (max-width:40.697em) and (max-aspect-ratio:9/12){
     html{
-        font-size:739%;
-        -webkit-text-size-adjust:739%;
-        -ms-text-size-adjust:739%;
+        font-size:179.103%;
+        -webkit-text-size-adjust:179.103%;
+        -ms-text-size-adjust:179.103%;
     }
 }
-@media screen and (min-width:155.929em) and (max-width:173.464em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:40.698em) and (max-width:46.495em) and (max-aspect-ratio:9/12){
     html{
-        font-size:823%;
-        -webkit-text-size-adjust:823%;
-        -ms-text-size-adjust:823%;
+        font-size:205.160%;
+        -webkit-text-size-adjust:205.160%;
+        -ms-text-size-adjust:205.160%;
     }
 }
-@media screen and (min-width:173.465em) and (max-width:192.738em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:46.496em) and (max-width:52.868em) and (max-aspect-ratio:9/12){
     html{
-        font-size:915%;
-        -webkit-text-size-adjust:915%;
-        -ms-text-size-adjust:915%;
+        font-size:233.797%;
+        -webkit-text-size-adjust:233.797%;
+        -ms-text-size-adjust:233.797%;
     }
 }
-@media screen and (min-width:192.739em) and (max-width:213.920em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:52.869em) and (max-width:59.872em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1016%;
-        -webkit-text-size-adjust:1016%;
-        -ms-text-size-adjust:1016%;
+        font-size:265.272%;
+        -webkit-text-size-adjust:265.272%;
+        -ms-text-size-adjust:265.272%;
     }
 }
-@media screen and (min-width:213.921em) and (max-width:237.198em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:59.873em) and (max-width:67.569em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1127%;
-        -webkit-text-size-adjust:1127%;
-        -ms-text-size-adjust:1127%;
+        font-size:299.863%;
+        -webkit-text-size-adjust:299.863%;
+        -ms-text-size-adjust:299.863%;
     }
 }
-@media screen and (min-width:237.199em) and (max-width:262.780em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:67.570em) and (max-width:76.028em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1249%;
-        -webkit-text-size-adjust:1249%;
-        -ms-text-size-adjust:1249%;
+        font-size:337.877%;
+        -webkit-text-size-adjust:337.877%;
+        -ms-text-size-adjust:337.877%;
     }
 }
-@media screen and (min-width:262.781em) and (max-width:290.896em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:76.029em) and (max-width:85.325em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1384%;
-        -webkit-text-size-adjust:1384%;
-        -ms-text-size-adjust:1384%;
+        font-size:379.656%;
+        -webkit-text-size-adjust:379.656%;
+        -ms-text-size-adjust:379.656%;
     }
 }
-@media screen and (min-width:290.897em) and (max-width:321.796em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:85.326em) and (max-width:95.543em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1531%;
-        -webkit-text-size-adjust:1531%;
-        -ms-text-size-adjust:1531%;
+        font-size:425.574%;
+        -webkit-text-size-adjust:425.574%;
+        -ms-text-size-adjust:425.574%;
     }
 }
-@media screen and (min-width:321.797em) and (max-aspect-ratio:9/12){
+@media screen and (min-width:95.544em) and (max-width:106.773em) and (max-aspect-ratio:9/12){
     html{
-        font-size:1693%;
-        -webkit-text-size-adjust:1693%;
-        -ms-text-size-adjust:1693%;
+        font-size:476.040%;
+        -webkit-text-size-adjust:476.040%;
+        -ms-text-size-adjust:476.040%;
+    }
+}
+@media screen and (min-width:106.774em) and (max-width:119.115em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:531.503%;
+        -webkit-text-size-adjust:531.503%;
+        -ms-text-size-adjust:531.503%;
+    }
+}
+@media screen and (min-width:119.116em) and (max-width:132.679em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:592.458%;
+        -webkit-text-size-adjust:592.458%;
+        -ms-text-size-adjust:592.458%;
+    }
+}
+@media screen and (min-width:132.680em) and (max-width:147.584em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:659.444%;
+        -webkit-text-size-adjust:659.444%;
+        -ms-text-size-adjust:659.444%;
+    }
+}
+@media screen and (min-width:147.585em) and (max-width:163.966em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:733.061%;
+        -webkit-text-size-adjust:733.061%;
+        -ms-text-size-adjust:733.061%;
+    }
+}
+@media screen and (min-width:163.967em) and (max-width:181.970em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:813.969%;
+        -webkit-text-size-adjust:813.969%;
+        -ms-text-size-adjust:813.969%;
+    }
+}
+@media screen and (min-width:181.971em) and (max-width:201.756em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:902.887%;
+        -webkit-text-size-adjust:902.887%;
+        -ms-text-size-adjust:902.887%;
+    }
+}
+@media screen and (min-width:201.757em) and (max-width:223.500em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1000.604%;
+        -webkit-text-size-adjust:1000.604%;
+        -ms-text-size-adjust:1000.604%;
+    }
+}
+@media screen and (min-width:223.501em) and (max-width:247.398em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1107.997%;
+        -webkit-text-size-adjust:1107.997%;
+        -ms-text-size-adjust:1107.997%;
+    }
+}
+@media screen and (min-width:247.399em) and (max-width:273.663em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1226.028%;
+        -webkit-text-size-adjust:1226.028%;
+        -ms-text-size-adjust:1226.028%;
+    }
+}
+@media screen and (min-width:273.664em) and (max-width:302.527em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1355.743%;
+        -webkit-text-size-adjust:1355.743%;
+        -ms-text-size-adjust:1355.743%;
+    }
+}
+@media screen and (min-width:302.528em) and (max-width:334.249em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1498.298%;
+        -webkit-text-size-adjust:1498.298%;
+        -ms-text-size-adjust:1498.298%;
+    }
+}
+@media screen and (min-width:334.250em) and (max-width:369.112em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1654.969%;
+        -webkit-text-size-adjust:1654.969%;
+        -ms-text-size-adjust:1654.969%;
+    }
+}
+@media screen and (min-width:369.113em) and (max-width:407.426em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:1827.150%;
+        -webkit-text-size-adjust:1827.150%;
+        -ms-text-size-adjust:1827.150%;
+    }
+}
+@media screen and (min-width:407.427em) and (max-width:449.533em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2016.376%;
+        -webkit-text-size-adjust:2016.376%;
+        -ms-text-size-adjust:2016.376%;
+    }
+}
+@media screen and (min-width:449.534em) and (max-width:495.808em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2224.334%;
+        -webkit-text-size-adjust:2224.334%;
+        -ms-text-size-adjust:2224.334%;
+    }
+}
+@media screen and (min-width:495.809em) and (max-width:546.665em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2452.880%;
+        -webkit-text-size-adjust:2452.880%;
+        -ms-text-size-adjust:2452.880%;
+    }
+}
+@media screen and (min-width:546.666em) and (max-width:602.557em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2704.054%;
+        -webkit-text-size-adjust:2704.054%;
+        -ms-text-size-adjust:2704.054%;
+    }
+}
+@media screen and (min-width:602.558em) and (max-width:663.983em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:2980.096%;
+        -webkit-text-size-adjust:2980.096%;
+        -ms-text-size-adjust:2980.096%;
+    }
+}
+@media screen and (min-width:663.984em) and (max-width:731.490em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:3283.468%;
+        -webkit-text-size-adjust:3283.468%;
+        -ms-text-size-adjust:3283.468%;
+    }
+}
+@media screen and (min-width:731.491em) and (max-aspect-ratio:9/12){
+    html{
+        font-size:3616.875%;
+        -webkit-text-size-adjust:3616.875%;
+        -ms-text-size-adjust:3616.875%;
     }
 }
